@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "havenly.havenlycosmetics",
+      "sha256_cert_fingerprints": [
+        "05:55:75:3E:98:6A:1D:E2:87:D9:7D:1E:49:1F:6C:A9:55:99:79:9F:51:70:FC:99:12:9C:47:62:01:96:88:AE"
+      ]
+    }
+  }
+]
